@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>pictures/explosion.png</file>
+        <file>pictures/war.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>pictures/soldier.png</file>
+        <file>pictures/soldiers2.png</file>
+        <file>pictures/bomb.png</file>
+        <file>pictures/victory.png</file>
+        <file>pictures/victory2.png</file>
+        <file>pictures/flag.png</file>
+        <file>pictures/flag2.jpg</file>
+    </qresource>
+</RCC>
